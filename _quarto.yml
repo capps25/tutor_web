@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+
+  title: ""
+  navbar:
+    #logo: images/dog_card.jpeg
+    left:
+      - href: landing.qmd
+        text: Home
+      # - href: about.qmd
+      #   text: About
+      - href: services.qmd
+        text: Services
+      - href: services_alt2.qmd
+        text: Services_alt2
+
+
+format:
+  html:
+    theme: 
+      - Yeti
+    css: styles.css
+    toc: true
+    # title-block-banner: 'images/banner.jpeg'
+
+
+

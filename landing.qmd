@@ -1,0 +1,33 @@
+---
+title: "Wing Tutoring"
+format:
+  html:
+    theme: Yeti
+    css: styles.css  # <-- optional, for custom styling
+---
+
+<!-- 🖼️ Full-screen banner image -->
+<img src="images/banner4.jpeg" class="hero-banner">
+
+## Welcome to Wing Tutoring
+
+We offer expert tutoring in math, science, and test prep — personalized for every student.
+
+📚 Flexible scheduling  
+💬 1-on-1 or group sessions  
+🌟 Proven results
+
+[Get Started Today »](services.qmd)
+
+
+## About
+<img src="images/dog_card.jpeg" class="hero-banner">
+<div class="narrative-block">
+
+Wing Tutoring began with a simple mission: to help students find their voice and confidence in a world full of pressure and noise.
+
+Founded by Alyssa Wing, a lifelong educator and advocate for student growth, our programs focus on individual strengths. Whether you're writing college essays, preparing for tests, or exploring new subjects, we walk with you — every step of the way.
+
+What makes us different? We listen. We tailor. We care.
+
+</div>
