@@ -1,9 +1,8 @@
 ---
 title: "Wing Tutoring"
-format:
-  html:
-    theme: Yeti
-    css: styles.css  # <-- optional, for custom styling
+format: html
+theme: Yeti
+css: styles.css  # <-- optional, for custom styling
 ---
 
 <!-- 🖼️ Full-screen banner image -->
