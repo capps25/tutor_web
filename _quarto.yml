@@ -7,7 +7,7 @@ website:
   navbar:
     #logo: images/dog_card.jpeg
     left:
-      - href: landing.qmd
+      - href: index.qmd
         text: Home
       # - href: about.qmd
       #   text: About
